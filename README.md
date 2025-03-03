@@ -22,5 +22,5 @@ This repository tracks my **daily progress** as I dive deep into cybersecurity, 
 - Darknet Diaries Podcast
 
 ### 🌐 Follow my progress on:
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [linkedin.com/in/HarshalPawar](#)
+- GitHub: [github.com/YOUR_USERNAME](https://github.com/harshal.codes)
+
