@@ -84,13 +84,3 @@
 - `find` and `chmod` are useful in **file forensics & securing files**.
 
 ---
-
-## ✅ Summary of Today’s Learning
-✔️ Revised OSI & TCP/IP Models  
-✔️ Reviewed key protocols (HTTP, DNS, SSH, FTP)  
-✔️ Practiced essential Linux & networking commands  
-✔️ Added personal notes & practical tips for future use
-
----
-
-## 📂 Suggested File Structure (For Your GitHub Repo)
