@@ -1,0 +1,12 @@
+
+No.	Vulnerability	Description
+1️⃣	Broken Access Control	Users can access unauthorized data.
+2️⃣	Cryptographic Failures	Weak encryption exposes sensitive data.
+3️⃣	Injection (SQL/XSS)	Malicious input affects backend processing.
+4️⃣	Insecure Design	Poor security controls in development.
+5️⃣	Security Misconfiguration	Default settings & exposed debugging info.
+6️⃣	Vulnerable Components	Using outdated libraries or frameworks.
+7️⃣	Identification & Authentication Failures	Weak authentication & session management.
+8️⃣	Software & Data Integrity Failures	Untrusted updates, insecure dependencies.
+9️⃣	Security Logging & Monitoring Failures	Lack of security alerts/logging.
+🔟	Server-Side Request Forgery (SSRF)	Server fetches untrusted data, leading to leaks.
