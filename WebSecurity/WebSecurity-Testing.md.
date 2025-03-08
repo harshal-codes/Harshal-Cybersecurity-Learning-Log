@@ -1,0 +1,6 @@
+webpage
+click f12 for info
+go to console sec
+type
+alert("This is a security test!");
+its give a pop notification
